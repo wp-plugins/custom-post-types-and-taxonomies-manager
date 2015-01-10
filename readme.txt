@@ -10,12 +10,26 @@ Admin UI for creating custom post types and custom taxonomies in WordPress.
 
 == Description ==
 
+Install plugin a goto Post types in admin menu.
+
+== Screenshots ==
+
+1. Admin panel
+2. Manage Post type
+3. Manage Taxonomy
+
+== Changelog ==
+
+[https://github.com/Pravdomil/wp-custom-post-types-man/commits](https://github.com/Pravdomil/wp-custom-post-types-man/commits)
+
 == Installation ==
 
 Same as others.
 
 == Frequently Asked Questions ==
 
-== Screenshots ==
+Not yet.
 
-== Changelog ==
+== Upgrade Notice ==
+
+Will be fine.
