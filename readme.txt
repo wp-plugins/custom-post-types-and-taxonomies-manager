@@ -1,6 +1,6 @@
 === Custom post types and taxonomies manager ===
 Contributors: pravdomil
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=CPTMAN%20beer
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=CustomPostTypesMan
 Tags: CPT, custom, custom post types, Post, post type, tax, Taxonomy, types
 Requires at least: 3.0.1
 Tested up to: 3.9
@@ -10,7 +10,9 @@ Admin UI for creating custom post types and custom taxonomies in WordPress.
 
 == Description ==
 
-Install plugin a goto Post types in admin menu.
+Install the plugin and click Post types in admin menu.
+
+If you will find this plugin very helpful, you can buy me <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=CustomPostTypesMan">a vine</a>.
 
 == Screenshots ==
 
