@@ -22,7 +22,7 @@ If you will find this plugin very helpful, you can buy me <a href="https://www.p
 
 == Changelog ==
 
-[https://github.com/Pravdomil/wp-custom-post-types-man/commits](https://github.com/Pravdomil/wp-custom-post-types-man/commits)
+<a href="https://github.com/Pravdomil/wp-custom-post-types-man/commits">GitHub</a>
 
 == Installation ==
 
